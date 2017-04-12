@@ -1,0 +1,82 @@
+#-------------------------------
+# General Site Settings
+
+title: James Von Alamag
+description: Programmer
+email: jamesvonalamag@gmail.com
+
+# NOTE: The Logo and Background image are defined in the all.sass document.
+
+menu:
+- {name: About Me, url: '#about-me'}
+- {name: Work, url: '#work'}
+- {name: Contact, url: '#contact'}
+
+#-------------------------------
+# SEO Section
+
+# NOTE: Providing SEO information will make this website more searchable on the internet.
+
+seo:
+  description: Number 1 Programmer in the Market.
+  rel-author: 'https://plus.google.com/u/0/+JamesVonAlamag/'
+  rel-publisher: 'https://plus.google.com/u/0/+JamesVonAlamag/'
+
+#-------------------------------
+# Google Analytics Section
+
+# Analytics helps you understand who visits your website.
+# Learn more at: http://support.google.com/analytics/answer/1008065
+
+# NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
+
+#google-analytics-ua: UA-XXXXXX-X
+
+#-------------------------------
+# About Section
+
+# NOTE: The avatar is defined in the all.sass document.
+
+blurb: >
+  **James specializes in programming**.
+  He is proficient in a multitude of [languages](http://jamesvon.tk/resume.docx){:target="_blank"},
+  but he also puts effort into learning new technologies and branching out of his comfort zone.
+  He is also an 90's [rock fan.](https://www.youtube.com/channel/UCoKqpHtuMUkehKm4KQCbniA){:target="_blank"} 
+
+
+skills:
+- {name: Communication, value: '9'}
+- {name: Organization, value: '7'}
+- {name: Learning, value: '10'}
+- {name: Teaching, value: '6'}
+- {name: Planning, value: '8'}
+- {name: Visual Design, value: '6'}
+- {name: UX Design, value: '5'}
+- {name: Programming, value: '10'}
+
+#-------------------------------
+# Work Section
+
+projects:
+- {name: UNDER CONSTRUCTION, folder: 'proj-1', file: 'work/proj-1.html'}
+- {name: UNDER CONSTRUCTION, folder: 'proj-2', file: 'work/proj-2.html'}
+- {name: UNDER CONSTRUCTION, folder: 'proj-3', file: 'work/proj-3.html'}
+- {name: UNDER CONSTRUCTION, folder: 'proj-4', file: 'work/proj-4.html'}
+- {name: UNDER CONSTRUCTION, folder: 'proj-5', file: 'work/proj-5.html'}
+- {name: UNDER CONSTRUCTION, folder: 'proj-6', file: 'work/proj-6.html'}
+- {name: UNDER CONSTRUCTION, folder: 'proj-7', file: 'work/proj-7.html'}
+- {name: UNDER CONSTRUCTION, folder: 'proj-8', file: 'work/proj-8.html'}
+
+
+
+# Contact Section
+
+social:
+- {icon: 'facebook', link: 'http://facebook.com/jamesvon.alamag'}
+- {icon: 'linkedin', link: 'http://www.linkedin.com/in/jamesvonalamag'}
+- {icon: 'github', link: 'http://www.github.com/james-von'}
+- {icon: 'youtube', link: 'https://www.youtube.com/channel/UCoKqpHtuMUkehKm4KQCbniA'}
+
+
+
+# social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'

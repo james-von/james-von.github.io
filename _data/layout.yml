@@ -1,0 +1,18 @@
+# Layout settings
+
+animation: "bounceOut"
+
+# Images
+
+logo: "logo.svg"
+hero: "aurora.jpeg"
+avatar: "prop.jpg"
+
+# Colors
+
+accent: "green"
+
+textColor: "#666"
+headlineColor: "black"
+bgcolor: "#e5eaee"
+documentBackgroundColor: "#fff"
